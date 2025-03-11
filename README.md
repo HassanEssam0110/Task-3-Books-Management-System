@@ -40,8 +40,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/books-management-system.git
-cd books-management-system
+git clone https://github.com/HassanEssam0110/Task-3-Books-Management-System.git
+cd Task-3-Books-Management-System
 ```
 
 ### Install Dependencies
