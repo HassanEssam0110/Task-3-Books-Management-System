@@ -148,8 +148,12 @@ npm run start:prod
 }
 ```
 
-#### Delete a Specific Book by ID
+#### Delete a Specific Book by ID **soft delete**
 
-**DELETE /api/v1/books/:id**
+**DELETE /books/:id**
+
+#### Delete a Specific Book by ID **delete from DB**
+
+**DELETE /books/:id?softDelete=false**
 
 ---
